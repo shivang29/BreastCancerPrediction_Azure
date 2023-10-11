@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'shivangl2predictionApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D2E2B5A136C4B05B89171FAADF1F0E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8645CA6AB01B42479DBD3C2EC0DDBEAD }}
